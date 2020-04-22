@@ -27,7 +27,7 @@ B). A data pipeline using google WIF.
 
 c). data product(Full stack node application) - url - https://model-fariness-project-demo.herokuapp.com
 
-    1. use the code in "website" directory to lauch the website through local host.
-    2. The application uses port 3004 to luach via local host
+    1. use the link in "website" directory to lauch the website through local host.
+    2. The application uses port 3004 to launch via local host
     
 
